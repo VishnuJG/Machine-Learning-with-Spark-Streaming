@@ -6,6 +6,7 @@ Team BD_246_409_453_574
 @VishnuJG
 
 **CIFAR 10**
+    
     - Each image is originally 32x32x3, but has been flattened out into a single vector of size 3072
     - Each image is one of 10 classes, 0-9
     - 10000 images per dataset file
