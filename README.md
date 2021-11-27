@@ -13,4 +13,8 @@ Team BD_246_409_453_574
 
 **The link for the dataset**-https://www.cs.toronto.edu/~kriz/cifar.html
 
-1)Streaming Data and Preprocessing
+**1)Streaming Data and Preprocessing**
+
+    - The following command can be used to run the stream.py file
+    - Here batchsize indicating the size of each batch
+    - python3 stream.py -f <dataset name> -b <batch size>
