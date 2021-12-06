@@ -19,6 +19,8 @@ Team BD_246_409_453_574
   <li><b><h3>Comparing the accuracy of all these models together we get :</h3></b>
     <img src="/resources/Accuracy/Analysis Combined.png"/></li>
 </ul>
-<h2>We can see that even though the Linear SGD model dips in accuracy in the beginning, it performs well when the batch-size is increased.</h2>
-
+<h3>We can see that even though the Linear SGD model dips in accuracy in the beginning, it performs well when the batch-size is increased.</h3>
+<hr/>
+<h2> A similar graph for errors are also plotted together for better understanding the different models</h2>
+<img src="/resources/Error/Error Combined.png"/>
   
