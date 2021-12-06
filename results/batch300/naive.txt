@@ -1,0 +1,38 @@
+Accuracy : 0.96 Precision : 1.0
+Accuracy : 0.97 Precision : 1.0
+Accuracy : 0.97 Precision : 1.0
+Accuracy : 0.98 Precision : 1.0
+Accuracy : 0.04 Precision : 0.0
+Accuracy : 0.98 Precision : 1.0
+Accuracy : 0.02 Precision : 0.0
+Accuracy : 0.04 Precision : 0.0
+Accuracy : 0.04 Precision : 0.0
+Accuracy : 0.96 Precision : 1.0
+Accuracy : 0.01 Precision : 0.0
+Accuracy : 0.02 Precision : 0.0
+Accuracy : 1.0 Precision : 1.0
+Accuracy : 0.02 Precision : 0.0
+Accuracy : 1.0 Precision : 1.0
+Accuracy : 1.0 Precision : 1.0
+Accuracy : 0.98 Precision : 1.0
+finacc : 0.587 batch-size : 100
+
+Accuracy : 0.9733333333333334 Precision : 1.0
+Accuracy : 0.9666666666666667 Precision : 1.0
+Accuracy : 0.9666666666666667 Precision : 1.0
+Accuracy : 0.9866666666666667 Precision : 1.0
+Accuracy : 0.013333333333333334 Precision : 0.0
+Accuracy : 0.04 Precision : 0.0
+finacc : 0.6573 batch-size : 150
+
+Accuracy : 0.965 Precision : 1.0
+Accuracy : 0.98 Precision : 1.0
+Accuracy : 0.975 Precision : 1.0
+finacc : 0.9733 batch-size : 200
+
+Accuracy : 0.964 Precision : 1.0
+Accuracy : 0.976 Precision : 1.0
+finacc : 0.97 batch-size : 250
+
+Accuracy : 0.97 Precision : 1.0
+finacc : 0.97 batch-size : 300
