@@ -5,4 +5,6 @@ Team BD_246_409_453_574
 @ShankYadav
 @VishnuJG
 
+<hr/>
+<h2>The following contains the graphs for different batch-sizes used for each model created</h2>
 
