@@ -59,6 +59,9 @@ def preprocessingfun(df,sc):
     cleandf = cleanerdf.transform(dff)
     cleandf = cleandf.select(['targetcol','stopwordsremoved','hastb','bigchunks'])
     #cleandf.show()
+    #bernoullimodelpred(cleandf)
+    #linearmodelpred(cleandf)
+    #naivebayesianpred(cleandf)
     clusteringpred(cleandf)
     
 def bernoullimodelpred(cleandf):
