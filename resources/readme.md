@@ -1,1 +1,1 @@
-This folder has all the graphs necessary for clearn explanation of all the findings.
+This folder has all the images necessary for explaining of all the findings.
