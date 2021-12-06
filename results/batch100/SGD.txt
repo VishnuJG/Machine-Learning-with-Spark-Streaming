@@ -1,0 +1,16 @@
+Accuracy : 0.17 Precision : 0.2236842105263158
+Accuracy : 0.18 Precision : 0.2465753424657534
+Accuracy : 0.18 Precision : 0.2465753424657534
+Accuracy : 0.21 Precision : 0.2692307692307692
+Accuracy : 0.82 Precision : 0.7352941176470589
+Accuracy : 0.09 Precision : 0.15
+Accuracy : 0.82 Precision : 0.7142857142857143
+Accuracy : 0.79 Precision : 0.625
+Accuracy : 0.84 Precision : 0.7538461538461538
+Accuracy : 0.13 Precision : 0.19402985074626866
+Accuracy : 0.82 Precision : 0.71875
+Accuracy : 0.82 Precision : 0.7142857142857143
+Accuracy : 0.16 Precision : 0.22535211267605634
+Accuracy : 0.84 Precision : 0.7538461538461538
+finacc : 0.4907 batch-size : 100
+
