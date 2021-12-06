@@ -1,1 +1,0 @@
-Batch size 100
