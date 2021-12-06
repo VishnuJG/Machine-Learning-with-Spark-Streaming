@@ -1,0 +1,21 @@
+Accuracy : 0.948 Precision : 1.0
+Accuracy : 0.94 Precision : 1.0
+finacc : 0.944 batch-size : 250
+
+Accuracy : 0.94 Precision : 1.0
+Accuracy : 0.96 Precision : 1.0
+Accuracy : 0.94 Precision : 1.0
+Accuracy : 0.96 Precision : 1.0
+Accuracy : 0.08 Precision : 0.0
+Accuracy : 0.89 Precision : 1.0
+Accuracy : 0.07 Precision : 0.0
+Accuracy : 0.09 Precision : 0.0
+Accuracy : 0.09 Precision : 0.0
+Accuracy : 0.89 Precision : 1.0
+Accuracy : 0.09 Precision : 0.0
+Accuracy : 0.1 Precision : 0.0
+Accuracy : 0.95 Precision : 1.0
+Accuracy : 0.07 Precision : 0.0
+Accuracy : 0.94 Precision : 1.0
+Accuracy : 0.92 Precision : 1.0
+finacc : 0561 batch-size : 250
